@@ -1,0 +1,131 @@
+@charset "utf-8";
+
+/* CSS Document */
+
+#head {
+    font-family: tahoma;
+    font-size: 25px;
+    color: #000000;
+    margin-top: 10px;
+    margin-right: 10px;
+    text-align: right;
+    border-style: inset;
+    border-color: #000000;
+    width: auto;
+    float: right;
+    padding-right: 9px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+}
+
+.top {
+    width: auto;
+    height: 100px;
+    font-family: tahoma;
+    font-size: 50px;
+    background-color: #9B9B9B;
+    text-align: center;
+    border-style: inset;
+    border-color: #000000;
+    margin-top: 20px;
+    background-image: url(top-image.jpg);
+    border: none;
+    float: center;
+}
+
+.nav {
+    width: auto;
+    height: 55px;
+    color: #00FF54;
+    background-color: #4C4D88;
+    border: none;
+}
+
+.home {
+    height: 35px;
+    color: #5BC4F6;
+    font-size: 20px;
+    font-family: tahoma;
+    float: right;
+    text-align: center;
+    margin-right: 30px;
+    padding-top: 12px;
+    direction: rtl;
+    text-decoration: none;
+}
+
+.contact {
+    height: 35px;
+    color: #5BC4F6;
+    font-size: 20px;
+    font-family: tahoma;
+    float: right;
+    text-align: center;
+    margin-right: 30px;
+    padding-top: 12px;
+    direction: rtl;
+    text-decoration: none;
+}
+
+.about {
+    height: 35px;
+    color: #5BC4F6;
+    font-size: 20px;
+    font-family: tahoma;
+    float: right;
+    text-align: center;
+    margin-right: 30px;
+    padding-top: 12px;
+    direction: rtl;
+    text-decoration: none;
+}
+
+p {
+    direction: rtl;
+    font-size: 20px;
+}
+
+#footer {
+    width: auto;
+    height: 50px;
+    color: #FF9999;
+    font-size: 20px;
+    font-family: tahoma;
+    background-color: #4C4D88;
+    border: none;
+    direction: rtl;
+    text-align: center;
+    padding-top: 10px
+}
+
+.links {
+    height: 35px;
+    color: #F7292D;
+    font-size: 30px;
+    font-family: tahoma;
+    float: right;
+    text-align: center;
+    margin-right: 30px;
+    padding-top: 12px;
+    direction: rtl;
+    text-decoration: none;
+}
+
+.body {
+    height: 500px;
+    width: auto;
+    background-color: #7A7A7A;
+    overflow: scroll;
+}
+
+.media {
+    direction: rtl;
+    text-align: center;
+}
+
+#ee {
+    direction: rtl;
+    text-align: center;
+    width: "600";
+    height: "400";
+}
