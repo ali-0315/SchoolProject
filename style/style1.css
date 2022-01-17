@@ -154,7 +154,7 @@ p {
     height: 500px;
     width: auto;
     background-color: #7A7A7A;
-    overflow: scroll;
+    overflow: hidden;
 }
 
 .media {
@@ -162,9 +162,23 @@ p {
     text-align: center;
 }
 
-#ee {
-    direction: rtl;
+.pa {
+    margin-bottom: -1px;
+}
+
+.un {
+    margin-bottom: -1px;
+}
+
+.log1 {
+    height: 230px;
+    width: 300px;
+    font: tahoma;
     text-align: center;
-    width: "600";
-    height: "400";
+    margin: auto;
+    font-size: 25px;
+    color: aquamarine;
+    border: groove;
+    border-color: olive;
+    margin-top: 20px;
 }
