@@ -208,3 +208,9 @@
         border-color: olive;
         margin-top: 20px;
     }
+    
+    .paragraf {
+        font-family: F_titr, Arial, Helvetica, sans-serif;
+        font-size: 150%;
+        padding: 10px;
+    }
